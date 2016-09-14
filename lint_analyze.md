@@ -1,4 +1,4 @@
-# Ddpai technical documentation {#ddpai-technical-documentation}
+# Lint分析
 
 **一、布局XML静态检查**
 
