@@ -15,7 +15,7 @@ ANR：[点击跳转到百度百科](http://baike.baidu.com/link?url=o4dEs5KLuCEq
 
 1. 点击无响应弹窗中的确定按钮，此时App会关闭。
 
- ![](QQ截图20160920153119.png)
+ ![](assets/QQ截图20160920153119.png)
 
 2. 然后再次打开App，此时，盯盯拍会扫描<font color=ff0000>五分钟以前到现在</font>的ANR日志，如果有相应日志则会将其写入到log目录下（如下图所示）。
 
