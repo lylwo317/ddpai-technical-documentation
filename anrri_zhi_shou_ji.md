@@ -5,7 +5,7 @@ ANR：[点击跳转到百度百科](http://baike.baidu.com/link?url=o4dEs5KLuCEq
 
 
 ##收集
-现在已经集成了ANR日志收集功能，当App出现了类似如下无响应（ANR:Application Not Responding）弹窗时
+现在已经集成了ANR日志收集功能，该功能只在开发模式当App出现了类似如下无响应（ANR:Application Not Responding）弹窗时
 
 <img src="Screenshot_20160920-114133.png" width="250">
 
