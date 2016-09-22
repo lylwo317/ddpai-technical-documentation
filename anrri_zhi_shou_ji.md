@@ -24,3 +24,4 @@ ANR：[点击跳转到百度百科](http://baike.baidu.com/link?url=o4dEs5KLuCEq
    以data_app_anr@xxxxxx命名的就是ANR日志。后面的时间含义为：年月日T时分秒
    
 3. 将其连同日志文件一同提交到BugTrace(禅道)或者直接发给相应的开发人员
+
