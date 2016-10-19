@@ -27,7 +27,7 @@
 
 分析
 
-这个跟LivePlayerActivity的原因一样。其实原因很简单，他们两个都继承了AbsPlayerActivity（这里面执行了横竖屏两个布局的创建）。
+这个跟LivePlayerActivity的原因一样。其实原因很简单，他们两个都继承了AbsPlayerActivity（这里面执行了横竖屏两个布局的创建，还有一些自定义的空间等等。）。
 
 解决方案
 
