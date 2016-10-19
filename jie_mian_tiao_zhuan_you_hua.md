@@ -13,7 +13,7 @@
 
 解决方案
 
-减少不必要的布局加载。
+减少不必要的布局加载。准确的说，应该是减少AbsPlayerActivity的布局加载。
 
 
 ## NetworkPlayerActivity（进入网络视频播放）
@@ -31,6 +31,6 @@
 
 解决方案
 
-减少不必要的布局加载。
+减少不必要的布局加载。准确的说，应该是减少AbsPlayerActivity的布局加载
 
 
