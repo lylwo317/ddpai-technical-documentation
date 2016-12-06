@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* 如何进行性能优化
 * 盯盯拍性能优化
    * [内存优化](内存分析.md)
    * [界面跳转优化](jie_mian_tiao_zhuan_you_hua.md)
