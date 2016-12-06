@@ -24,9 +24,3 @@ Chrome + Systrace
 ####解决方案
 
 采用ListView或者RecyclerView实现多种类型Item的布局（这里只要把时间当做一种Item，一行照片当做一种Item，也就是只需要两种类型的布局）。这样就能很好的重复使用inflate的布局。
-
-
-## 图片分享页面
-#### 工具
-Chrome + Systrace
-#### 测量结果截图
